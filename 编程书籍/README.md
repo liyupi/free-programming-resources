@@ -95,7 +95,6 @@
 
 ### 版本控制
 
-* [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
 * [学习 Git 分支](https://learngitbranching.js.org)
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
