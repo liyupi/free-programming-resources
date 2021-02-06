@@ -1,10 +1,12 @@
 # 学习路线
 
-> 已收录近千本编程电子书和文档，目前大部分源于 Free Ebook Foundation 的开源项目 [free-programming-books](https://github.com/EbookFoundation/free-programming-books)。
->
-> 推荐在 [编程导航](https://www.code-nav.cn) 直接搜索书籍！
+> 持续整理编程学习路线，只收录精品！
 
 
 
 [前端学习路线](https://www.code-nav.cn/rd/?rid=b00064a76018de96025ec22f218e8e6e)
+
+[Java 基础思维导图](./files/Java基础.pdf)
+
+🔐 [Java 基础思维导图源文件](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
