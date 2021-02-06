@@ -1,0 +1,17 @@
+{
+  "envId": "{{env.ENV_ID}}",
+  "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
+  "version": "2.0",
+  "framework": {
+    "name": "free-programming-resources",
+    "plugins": {
+      "client": {
+        "use": "@cloudbase/framework-plugin-website",
+        "inputs": {
+          "buildCommand": "npm run build",
+          "outputPath": "dist"
+        }
+      }
+    }
+  }
+}
