@@ -1,5 +1,5 @@
 # free-programming-resources
-💎 免费的编程资源大全，持续更新！
+💎 免费的编程资源大全，持续更新！[在线阅读](https://resources.liyupi.com)
 
 ![](https://img.shields.io/badge/学习路线-100+-brightgreen.svg)
 ![](https://img.shields.io/badge/贴心教程-100+-green.svg)
