@@ -4,6 +4,49 @@
 
 
 
+## 目录
+
+- [找开源项目](#找开源项目)
+- [持续更新](#持续更新)
+
+
+
+## 找开源项目
+
+[HelloGitHub](https://www.code-nav.cn/rd/?rid=28ee4e3e60322bb106a48ba20e228d13)：分享 GitHub 上有趣、入门级的开源项目
+
+[Explore GitHub](https://www.code-nav.cn/rd/?rid=28ee4e3e60322bf906a4987d176713da)：GitHub 官方探索，基于兴趣为你推荐开源项目
+
+[GitHub Docs](https://www.code-nav.cn/rd/?rid=b00064a760322b1f064249b56a37ad98)：GitHub 中文文档，了解 GitHub 全部功能
+
+[Topics on GitHub](https://www.code-nav.cn/rd/?rid=79550af260322c41062ce93728994a21)：GitHub 官方提供的主题分类，帮助你找到合适的项目
+
+[GitHub Awesome](https://www.code-nav.cn/rd/?rid=b00064a760322c90064285ba7638805f)：GitHub 官方提供的 awesome 合集，帮助你发现特定标签的资源大全
+
+[GitHub 官方 Trending](https://www.code-nav.cn/rd/?rid=b00064a760322cd30642974900a6de7d)：GitHub 官方提供的趋势统计，帮你发现优秀、有潜力的开源项目
+
+[GitHub Trending](https://www.code-nav.cn/rd/?rid=28ee4e3e60322d1c06a4d72a2d2690ec)：GitHub 趋势，寻找最好的Github项目，让您的开发如虎添翼！
+
+[Gitstar Ranking](https://www.code-nav.cn/rd/?rid=28ee4e3e60322d7806a4e74d2da282a5)：非官方 GitHub Star 统计排名
+
+[GitHuber.cn](https://www.code-nav.cn/rd/?rid=28ee4e3e60322dec06a4fb9137c192bb)：发现优秀 GitHub 开发者
+
+[searchcode](https://www.code-nav.cn/rd/?rid=28ee4e3e600fb3900114f71f4f81db4e)：简单全面的开源代码搜索器
+
+[LibHunt](https://www.code-nav.cn/rd/?rid=28ee4e3e600fb3900114f71f4f81db4e)：汇集实用的开源项目和软件类库，让编程人员快速发现好的项目
+
+[Codelf](https://www.code-nav.cn/rd/?rid=28ee4e3e600fb3900114f71f4f81db4e)：变量命名神器
+
+[GitClone](https://www.code-nav.cn/rd/?rid=28ee4e3e600fb3900114f71f4f81db4e)：GitHub 缓存加速网站
+
+[GitHub 加速下载](https://www.code-nav.cn/rd/?rid=b00064a760322e940642dfab7765f4ee)
+
+[GitHub 文件加速](https://www.code-nav.cn/rd/?rid=28ee4e3e60322efc06a52b49518dcd9a)
+
+
+
+## 持续更新
+
 [docsify](https://www.code-nav.cn/rd/?rid=79550af26016dd3b01eb463c6ec11b09)：一个神奇的文档网站生成工具
 
 [Draw.io](https://www.code-nav.cn/rd/?rid=1526e12a601636a10183dff553bfa5bf)：实用的免费在线图表绘制工具
