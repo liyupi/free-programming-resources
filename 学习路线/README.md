@@ -10,3 +10,5 @@
 
 🔐 [Java 基础思维导图源文件](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
+[Java 学习路线](https://how2j.cn/frontroute)
+

@@ -1,6 +1,6 @@
 # 编程书籍
 
-> 已收录近千本编程电子书和文档，目前大部分源于 Free Ebook Foundation 的开源项目 [free-programming-books](https://github.com/EbookFoundation/free-programming-books)。
+> 已收录近千本编程电子书和文档，大部分源于开源项目 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 和 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)，并在此基础上补充了更多的好书！
 >
 > 推荐在 [编程导航](https://www.code-nav.cn) 直接搜索书籍！
 
@@ -448,8 +448,11 @@
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
-
 ### Java
+
+- [Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
+- 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+- [Effective Java（第3版）各章节的中英文学习参考](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 
 * [阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf) (PDF)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)

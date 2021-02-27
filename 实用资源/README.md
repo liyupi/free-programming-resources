@@ -13,6 +13,8 @@
 
 ## 找开源项目
 
+[GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
+
 [HelloGitHub](https://www.code-nav.cn/rd/?rid=28ee4e3e60322bb106a48ba20e228d13)：分享 GitHub 上有趣、入门级的开源项目
 
 [Explore GitHub](https://www.code-nav.cn/rd/?rid=28ee4e3e60322bf906a4987d176713da)：GitHub 官方探索，基于兴趣为你推荐开源项目

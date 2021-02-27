@@ -1,8 +1,9 @@
 # free-programming-resources
-💎 免费的编程资源大全，持续更新！[在线阅读](https://resources.liyupi.com)
+💎 免费的编程资源大全，持续更新！[在线阅读](https://res.liyupi.com)
 
 ![](https://img.shields.io/badge/学习路线-100+-brightgreen.svg)
 ![](https://img.shields.io/badge/贴心教程-100+-green.svg)
+![](https://img.shields.io/badge/项目实战-100+-pink.svg)
 ![](https://img.shields.io/badge/编程书籍-1000+-yellow.svg)
 ![](https://img.shields.io/badge/面试合集-1000+-orange.svg)
 ![](https://img.shields.io/badge/实用资源-1000+-blue.svg)
@@ -10,6 +11,8 @@
 搜资源：[编程导航](https://www.code-nav.cn)
 
 领资源：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+
+技术干货：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
 
 
@@ -19,6 +22,7 @@
 
 - 🚄 [学习路线](./学习路线/README.md)
 - ❤️ [贴心教程](./贴心教程/README.md)
+- 💻 [项目实战](./项目实战/README.md)
 - 📚 [编程书籍](./编程书籍/README.md)
 - 🙎 [面试合集](./面试合集/README.md)
 - 📦 [实用资源](./实用资源/README.md)

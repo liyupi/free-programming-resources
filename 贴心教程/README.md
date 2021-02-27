@@ -1,6 +1,6 @@
 # 贴心教程
 
-> 已收录近千本编程电子书和文档，目前大部分源于 Free Ebook Foundation 的开源项目 [free-programming-books](https://github.com/EbookFoundation/free-programming-books)。
+> 各种编程语言和方向的教程，在学编程的路上不再迷路！
 >
 > 推荐在 [编程导航](https://www.code-nav.cn) 直接搜索教程！
 
@@ -13,12 +13,14 @@
 - [Python](#Python)
 - [Go](#Go)
 - [PHP](#PHP)
+- [算法](#算法)
 - [网络](#网络)
 - [设计模式](#设计模式)
 - [Linux](#Linux)
 - [人工智能](#人工智能)
 - [测试](#测试)
 - [Git](#Git)
+- [其他](#其他)
 
 
 
@@ -58,6 +60,20 @@
 
 [On Java 8](https://www.code-nav.cn/rd/?rid=ce805e785ff309020339542e024a33ff)：Java8 在线学习手册
 
+[SpringBoot Guide](https://github.com/Snailclimb/springboot-guide)
+
+[从零入门 ！Spring Security With JWT](https://github.com/Snailclimb/spring-security-jwt-guide)
+
+[SpringAll](https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程
+
+[Spring Boot Demo](https://github.com/xkcoding)：通过 Demo 深度学习并实战 SpringBoot
+
+[springcloud-learning](https://github.com/macrozheng/springcloud-learning)：一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring  Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。    
+
+🔐 [码出高效 - 阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+
+[guava-study](https://github.com/tiantiangao/guava-study)：Java 知名类库 guava 学习
+
 
 
 ## Python
@@ -87,6 +103,16 @@
 ## PHP
 
 [黑马 28 天 PHP 零基础入门到精通教程](https://www.code-nav.cn/rd/?rid=023ce9556001076004805f0a68184ff0)
+
+
+
+## 算法
+
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)：用动画的形式呈现解LeetCode题目的思路
+
+[fucking-algorithm](https://github.com/labuladong/fucking-algorithm)：labuladong 的算法小抄
+
+[hello-algorithm](https://github.com/geekxh/hello-algorithm)：「算法面试+算法知识」针对小白的算法训练
 
 
 
@@ -130,5 +156,21 @@
 
 [Learning Git Branching](https://www.code-nav.cn/rd/?rid=023ce9555ff567a5038cd13851a41fc6)：通过一系列刺激的关卡挑战，逐步深入的学习 Git
 
+[猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
 
+
+
+## 其他
+
+[程序员应该有的一些好习惯+面试必知事项！](https://github.com/Snailclimb/programmer-advancement)
+
+[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
+[程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
+
+[英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+
+[程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money)
+
+[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
