@@ -165,6 +165,8 @@
 
 [proxyee-down](https://github.com/proxyee-down-org/proxyee-down)：http下载工具，基于http代理，支持多连接分块下载
 
+[hosp_order](https://github.com/sfturing/hosp_order)：医院预约挂号系统，基于 SSM 框架
+
 
 
 #### 🔐 20 套 Java 项目源码
