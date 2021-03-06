@@ -50,7 +50,7 @@
 
 ## 自我修养
 
-[996.ICU](https://github.com/996icu/996.ICU)：996 工作制公司名单
+[996.ICU](https://github.com/996icu/996.ICU/blob/master/blacklist/README.md)：996 工作制公司名单
 
 [955.WLB](https://github.com/formulahendry/955.WLB)：995 工作制公司名单
 
