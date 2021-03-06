@@ -7,8 +7,8 @@
 ## 目录
 
 - [找开源项目](#找开源项目)
-- [持续更新](#持续更新)
 - [自我修养](#自我修养)
+- [持续更新](#持续更新)
 
 
 
@@ -48,6 +48,16 @@
 
 
 
+## 自我修养
+
+[996.ICU](https://github.com/996icu/996.ICU)：996 工作制公司名单
+
+[955.WLB](https://github.com/formulahendry/955.WLB)：995 工作制公司名单
+
+[996.Leave](https://github.com/623637646/996.Leave)：逃离 996，养老国外公司
+
+
+
 ## 持续更新
 
 [docsify](https://www.code-nav.cn/rd/?rid=79550af26016dd3b01eb463c6ec11b09)：一个神奇的文档网站生成工具
@@ -71,14 +81,4 @@
 [数据库大全](https://www.code-nav.cn/rd/?rid=b00064a76012546b016e274a3724c5f0)：果创云收录的各种数据库表设计
 
 [腾讯兔小巢](https://www.code-nav.cn/rd/?rid=28ee4e3e6008308d00471c994d1b4106)：免费便捷的用户意见反馈服务平台，让用户帮你把产品做得更好
-
-
-
-## 自我修养
-
-[996.ICU](https://github.com/996icu/996.ICU)：996 工作制公司名单
-
-[955.WLB](https://github.com/formulahendry/955.WLB)：995 工作制公司名单
-
-[996.Leave](https://github.com/623637646/996.Leave)：逃离 996，养老国外公司
 
