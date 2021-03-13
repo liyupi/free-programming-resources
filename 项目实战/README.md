@@ -89,6 +89,8 @@
 
 [天猫整站 Springboot](https://how2j.cn/module/156.html)
 
+[mall-learning](https://github.com/macrozheng/mall-learning)：mall学习教程，架构、业务、技术要点全方位解析。
+
 [SpringBoot 电商商城系统 Mall4j](https://github.com/gz-yami/mall4j)
 
 [SpringBoot 完整电商系统 Mall](https://github.com/macrozheng/mall)：包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现。
@@ -114,16 +116,17 @@
 #### 博客论坛
 
 1. [Mblog](https://github.com/langhsu/mblog)：开源 Java 博客系统
-2. [forum-java](https://github.com/Qbian61/forum-java)：一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台
-3. [vhr](https://github.com/lenve/vhr)：微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发。
-4. [favorites-web](https://github.com/cloudfavorites/favorites-web):云收藏 Spring Boot 2.X 开源项目。云收藏是一个使用 Spring Boot 构建的开源网站，可以让用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章。
-5. [community](https://github.com/codedrinker/community)：码问，开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
-6. [NiterForum](https://github.com/yourkevin/NiterForum)：尼特社区-NiterForum-一个论坛/社区程序。后端Springboot/MyBatis/Maven/MySQL，前端Thymeleaf/Layui。可供初学者，学习、交流使用。
-7. [VBlog](https://github.com/lenve/VBlog)：V部落，Vue+SpringBoot实现的多用户博客管理平台!
-8. [NiceFish](https://github.com/damoqiongqiu/NiceFish)：SpringBoot/SpringCloud 前后端分离项目
-9. [My-Blog](https://github.com/ZHENFENG13/My-Blog)： My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验。
-10. [My-Blog-layui](https://github.com/ZHENFENG13/My-Blog-layui)：layui 版本的 My-Blog : A simple & beautiful blogging system implemented with spring-boot & layui & thymeleaf & mybatis My Blog 是由  SpringBoot + Layui + Mybatis + Thymeleaf 等技术实现的 Java  博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验    
-11. [symphony](https://github.com/88250/symphony)：Java 实现的现代化社区
+2. [halo](https://github.com/halo-dev/halo)：一个优秀的开源博客发布应用
+3. [forum-java](https://github.com/Qbian61/forum-java)：一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台
+4. [vhr](https://github.com/lenve/vhr)：微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发。
+5. [favorites-web](https://github.com/cloudfavorites/favorites-web):云收藏 Spring Boot 2.X 开源项目。云收藏是一个使用 Spring Boot 构建的开源网站，可以让用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章。
+6. [community](https://github.com/codedrinker/community)：码问，开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
+7. [NiterForum](https://github.com/yourkevin/NiterForum)：尼特社区-NiterForum-一个论坛/社区程序。后端Springboot/MyBatis/Maven/MySQL，前端Thymeleaf/Layui。可供初学者，学习、交流使用。
+8. [VBlog](https://github.com/lenve/VBlog)：V部落，Vue+SpringBoot实现的多用户博客管理平台!
+9. [NiceFish](https://github.com/damoqiongqiu/NiceFish)：SpringBoot/SpringCloud 前后端分离项目
+10. [My-Blog](https://github.com/ZHENFENG13/My-Blog)： My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验。
+11. [My-Blog-layui](https://github.com/ZHENFENG13/My-Blog-layui)：layui 版本的 My-Blog : A simple & beautiful blogging system implemented with spring-boot & layui & thymeleaf & mybatis My Blog 是由  SpringBoot + Layui + Mybatis + Thymeleaf 等技术实现的 Java  博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验    
+12. [symphony](https://github.com/88250/symphony)：Java 实现的现代化社区
 
 
 
@@ -250,6 +253,8 @@
 [gson](https://github.com/google/gson)：Java 序列化/反序列化类库
 
 [easyexcel](https://github.com/alibaba/easyexcel)：快速、简单避免OOM的java处理Excel工具
+
+[p3c](https://github.com/alibaba/p3c)：阿里巴巴 Java 代码规范检查插件
 
 
 

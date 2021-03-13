@@ -74,6 +74,8 @@
 
 [guava-study](https://github.com/tiantiangao/guava-study)：Java 知名类库 guava 学习
 
+[mall-learning](https://github.com/macrozheng/mall-learning)：mall学习教程，架构、业务、技术要点全方位解析。
+
 
 
 ## Python
