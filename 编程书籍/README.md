@@ -450,8 +450,9 @@
 
 ### Java
 
-- [Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
 - 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+- 🔐 [Java并发编程图册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+- [Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
 - [Effective Java（第3版）各章节的中英文学习参考](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 
 * [阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf) (PDF)

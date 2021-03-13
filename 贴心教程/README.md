@@ -72,6 +72,8 @@
 
 🔐 [码出高效 - 阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
+🔐 [Java并发编程图册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+
 [guava-study](https://github.com/tiantiangao/guava-study)：Java 知名类库 guava 学习
 
 [mall-learning](https://github.com/macrozheng/mall-learning)：mall学习教程，架构、业务、技术要点全方位解析。
