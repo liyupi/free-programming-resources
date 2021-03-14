@@ -25,19 +25,19 @@
 
 > 包括一些代码 Demo 教程、Java 代码片段等
 
-[tutorials](https://github.com/eugenp/tutorials)
-
-[Java 实现的设计模式](https://github.com/iluwatar/java-design-patterns)
+[tutorials](https://github.com/eugenp/tutorials)：一系列小而专注的教程集合
 
 [SpringAll](https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程
 
 [Spring Boot Demo](https://github.com/xkcoding/spring-boot-demo)：通过 Demo 深度学习并实战 SpringBoot
 
-[spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)：Spring Boot 使用的各种示例，以最简单、最实用为标准，此开源项目中的每个示例都以最小依赖，最简单为标准，帮助初学者快速掌握 Spring Boot 各组件的使用。
+[spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)：Spring Boot 使用的各种示例，以最简单、最实用为标准，帮助初学者快速掌握 Spring Boot 各组件的使用。
 
-[spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)：该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot  使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web  开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握  Spring Boot 开发。
+[spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)：Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程。
 
 [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)：所有算法的 Java 实现
+
+[java-design-patterns](https://github.com/iluwatar/java-design-patterns)：Java 实现的设计模式
 
 
 
