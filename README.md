@@ -1,12 +1,20 @@
-# free-programming-resources
-💎 免费的编程资源大全，持续更新！[在线阅读](https://res.liyupi.com)
+# 💎 免费编程资源大全
+> 让天下编程资源不再难找，帮助更多小伙伴！
+>
+> by 鹅厂全栈程序员鱼皮，持续更新！
+
+
 
 ![](https://img.shields.io/badge/学习路线-100+-brightgreen.svg)
 ![](https://img.shields.io/badge/贴心教程-100+-green.svg)
-![](https://img.shields.io/badge/项目实战-100+-pink.svg)
+![](https://img.shields.io/badge/项目实战-100+-red.svg)
 ![](https://img.shields.io/badge/编程书籍-1000+-yellow.svg)
 ![](https://img.shields.io/badge/面试合集-1000+-orange.svg)
 ![](https://img.shields.io/badge/实用资源-1000+-blue.svg)
+
+
+
+[直接在线阅读，喂饱收藏夹！](https://liyupi.gitee.io/free-programming-resources/)
 
 搜资源：[编程导航](https://www.code-nav.cn)
 

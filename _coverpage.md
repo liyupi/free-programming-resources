@@ -2,9 +2,9 @@
 
 ![logo](_media/icon.svg)
 
-# free-programming-resources
+# 💎 免费编程资源大全
 
-> 💎 免费的编程资源大全
+> 让天下编程资源不再难找，帮助更多小伙伴！by 鱼皮
 
 - 🚄 [学习路线](./学习路线/README.md)
 - ❤️ [贴心教程](./贴心教程/README.md)
@@ -15,3 +15,4 @@
 
 [GitHub](https://github.com/liyupi/free-programming-resources)
 [阅读](README.md)
+

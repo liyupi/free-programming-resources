@@ -122,6 +122,8 @@
 
 [How2J](https://www.code-nav.cn/rd/?rid=21ded5cb5ff2e50903acc7d93758fb15)： Java 全栈开发教程网站
 
+[Learn Java](https://www.learnjavaonline.org/)：国外 Java 学习网站
+
 [蚂蚁课堂免费课程](https://www.code-nav.cn/rd/?rid=023ce9555ffabe7d03fdd8004879672c)
 
 🔐 [码出高效 - 阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)

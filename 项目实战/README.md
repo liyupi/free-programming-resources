@@ -39,6 +39,8 @@
 
 [java-design-patterns](https://github.com/iluwatar/java-design-patterns)：Java 实现的设计模式
 
+[JavaEETest](https://github.com/lenve/JavaEETest)：Spring、SpringMVC、MyBatis、Spring Boot案例
+
 
 
 ### Java完整系统
@@ -96,6 +98,7 @@
 19. 移动ssh项目(struts+spring+hibernate+oracle)
 
 20. 音乐网站(JSP+SERVLET)
+
 
 
 ## 前端
