@@ -216,6 +216,8 @@
 
 [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
 
+[first-contributions](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)：教你第一次为 GitHub 仓库贡献
+
 
 
 ## 其他
