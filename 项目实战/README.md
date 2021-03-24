@@ -26,6 +26,8 @@
 
 > 包括一些代码 Demo 教程、Java 代码片段等
 
+
+
 [tutorials](https://github.com/eugenp/tutorials)：一系列小而专注的教程集合
 
 [SpringAll](https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程
@@ -46,6 +48,8 @@
 ### Java入门练手
 
 > 适合新手练手的小项目
+
+
 
 
 [Java 实现简单计算器](https://www.lanqiao.cn/courses/185)
@@ -69,6 +73,7 @@
 ### Java完整系统
 
 > 适合系统地学习，可以写到简历上的企业级完整项目
+
 
 
 [趋势投资 SpringCloud](https://how2j.cn/module/170.html)
@@ -111,33 +116,53 @@
 
 #### 博客论坛
 
-1. [Mblog](https://github.com/langhsu/mblog)：开源 Java 博客系统
-2. [halo](https://github.com/halo-dev/halo)：一个优秀的开源博客发布应用
-3. [forum-java](https://github.com/Qbian61/forum-java)：一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台
-4. [vhr](https://github.com/lenve/vhr)：微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发。
-5. [favorites-web](https://github.com/cloudfavorites/favorites-web):云收藏 Spring Boot 2.X 开源项目。云收藏是一个使用 Spring Boot 构建的开源网站，可以让用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章。
-6. [community](https://github.com/codedrinker/community)：码问，开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
-7. [NiterForum](https://github.com/yourkevin/NiterForum)：尼特社区-NiterForum-一个论坛/社区程序。后端Springboot/MyBatis/Maven/MySQL，前端Thymeleaf/Layui。可供初学者，学习、交流使用。
-8. [VBlog](https://github.com/lenve/VBlog)：V部落，Vue+SpringBoot实现的多用户博客管理平台!
-9. [NiceFish](https://github.com/damoqiongqiu/NiceFish)：SpringBoot/SpringCloud 前后端分离项目
-10. [My-Blog](https://github.com/ZHENFENG13/My-Blog)： My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验。
-11. [My-Blog-layui](https://github.com/ZHENFENG13/My-Blog-layui)：layui 版本的 My-Blog : A simple & beautiful blogging system implemented with spring-boot & layui & thymeleaf & mybatis My Blog 是由  SpringBoot + Layui + Mybatis + Thymeleaf 等技术实现的 Java  博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
-12. [symphony](https://github.com/88250/symphony)：Java 实现的现代化社区
+[Mblog](https://github.com/langhsu/mblog)：开源 Java 博客系统
+
+[halo](https://github.com/halo-dev/halo)：一个优秀的开源博客发布应用
+
+[forum-java](https://github.com/Qbian61/forum-java)：一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台
+
+[vhr](https://github.com/lenve/vhr)：微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发。
+
+[favorites-web](https://github.com/cloudfavorites/favorites-web):云收藏 Spring Boot 2.X 开源项目。云收藏是一个使用 Spring Boot 构建的开源网站，可以让用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章。
+
+[community](https://github.com/codedrinker/community)：码问，开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
+
+[NiterForum](https://github.com/yourkevin/NiterForum)：尼特社区-NiterForum-一个论坛/社区程序。后端Springboot/MyBatis/Maven/MySQL，前端Thymeleaf/Layui。可供初学者，学习、交流使用。
+
+[VBlog](https://github.com/lenve/VBlog)：V部落，Vue+SpringBoot实现的多用户博客管理平台!
+
+[NiceFish](https://github.com/damoqiongqiu/NiceFish)：SpringBoot/SpringCloud 前后端分离项目
+
+[My-Blog](https://github.com/ZHENFENG13/My-Blog)： My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验。
+
+[My-Blog-layui](https://github.com/ZHENFENG13/My-Blog-layui)：layui 版本的 My-Blog : A simple & beautiful blogging system implemented with spring-boot & layui & thymeleaf & mybatis My Blog 是由  SpringBoot + Layui + Mybatis + Thymeleaf 等技术实现的 Java  博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
+
+[symphony](https://github.com/88250/symphony)：Java 实现的现代化社区
 
 
 
 #### 管理系统
 
-1. [Spring-Cloud-Admin](https://github.com/wxiaoqi/Spring-Cloud-Admin)：Cloud-Admin 是国内首个基于 Spring Cloud 微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关 API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用 Spring Boot2 以及 Spring Cloud Gateway 相关核心组件，前端采用 vue-element-admin 组件。
-2. [bootshiro](https://github.com/tomsun28/bootshiro)：基于 springboot+shiro+jwt 的资源无状态认证权限管理系统后端
-3. [悟空CRM](https://github.com/72crm/72crm-java)：基于jfinal+vue+ElementUI的前后端分离CRM系统
-4. [EL-ADMIN](https://github.com/elunez/eladmin)：基于 SpringBoot 的后台管理系统
-5. [pig](https://gitee.com/log4j/pig)：基于 Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的 RBAC 权限管理系统。
-6. [FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
-7. [Spring Boot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)：基于Spring Boot-Shiro-Vue 的权限管理
-8. [studentmanager](https://github.com/ZeroWdd/studentmanager)：基于springboot+mybatis学生管理系统
-9. [jshERP](https://github.com/jishenghua/jshERP)：华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
-10. [HotelSystem](https://github.com/misterchaos/HotelSystem)：酒店管理系统 Java,tomcat,mysql,servlet,jsp实现，没有使用任何框架
+[Spring-Cloud-Admin](https://github.com/wxiaoqi/Spring-Cloud-Admin)：Cloud-Admin 是国内首个基于 Spring Cloud 微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关 API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用 Spring Boot2 以及 Spring Cloud Gateway 相关核心组件，前端采用 vue-element-admin 组件。
+
+[bootshiro](https://github.com/tomsun28/bootshiro)：基于 springboot+shiro+jwt 的资源无状态认证权限管理系统后端
+
+[悟空CRM](https://github.com/72crm/72crm-java)：基于jfinal+vue+ElementUI的前后端分离CRM系统
+
+[EL-ADMIN](https://github.com/elunez/eladmin)：基于 SpringBoot 的后台管理系统
+
+[pig](https://gitee.com/log4j/pig)：基于 Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的 RBAC 权限管理系统。
+
+[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
+
+[Spring Boot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)：基于Spring Boot-Shiro-Vue 的权限管理
+
+[studentmanager](https://github.com/ZeroWdd/studentmanager)：基于springboot+mybatis学生管理系统
+
+[jshERP](https://github.com/jishenghua/jshERP)：华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
+
+[HotelSystem](https://github.com/misterchaos/HotelSystem)：酒店管理系统 Java,tomcat,mysql,servlet,jsp实现，没有使用任何框架
 
 
 
@@ -166,6 +191,8 @@
 [proxyee-down](https://github.com/proxyee-down-org/proxyee-down)：http下载工具，基于http代理，支持多连接分块下载
 
 [hosp_order](https://github.com/sfturing/hosp_order)：医院预约挂号系统，基于 SSM 框架
+
+
 
 
 #### 🔐 20 套 Java 项目源码
