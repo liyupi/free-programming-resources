@@ -12,7 +12,7 @@
 
 
 
-[直接在线阅读，喂饱收藏夹！](https://free.code-nav.cn) | [备用地址](https://liyupi.gitee.io/free-programming-resources/)
+[直接在线阅读，喂饱收藏夹！](https://free.code-nav.cn) ✨ [备用地址](https://liyupi.gitee.io/free-programming-resources/)
 
 搜资源：[编程导航](https://www.code-nav.cn)
 
