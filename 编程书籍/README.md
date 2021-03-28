@@ -9,6 +9,7 @@
 ## 目录
 
 * [语言无关](#语言无关)
+  * [算法数据结构](#算法数据结构)
   * [版本控制](#版本控制)
   * [编程艺术](#编程艺术)
   * [编辑器](#编辑器)
@@ -93,6 +94,26 @@
 
 ## 语言无关
 
+### 算法数据结构
+
+**🔐 更多**
+
+百度网盘链接：https://pan.baidu.com/s/1G6QU8D3cLkvS8uy85PPHqw 
+
+提取码：9knq 
+
+- LeetCode 101
+- LeetCode 题解 151
+- LeetCode Cookbook
+- 西法的刷题秘籍
+- 漫画算法：小灰的算法之旅
+- 算法-第4版
+- 《编程之美》扫描版
+- 《程序设计实践》中文版
+- algorithms unlocked
+
+
+
 ### 版本控制
 
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
@@ -102,18 +123,19 @@
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
 * [Git Community Book 中文版](http://gitbook.liuhui998.com)
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
-* [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
 * [Github帮助文档](https://github.com/waylau/github-help)
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/)
-* [Got GitHub](https://github.com/gotgit/gotgithub)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 * [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/)
 * [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
 * [Pro Git](https://git-scm.com/book/zh/v2)
 * [Pro Git 第二版 中文版](https://bingohuang.gitbooks.io/progit2/content) - Bingo Huang
 * [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
+* [GitHub漫游指南](https://github.com/phodal/github-roam)
+
+
 
 
 ### 编程艺术
@@ -147,7 +169,9 @@
 * [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker中文指南](https://github.com/widuu/chinese_docker)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
 * [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
+* [FreeRADIUS新手入门](http://freeradius.akagi201.org/) 😟
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
 * [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
@@ -159,6 +183,11 @@
 * [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+* [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
+* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
+* [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+
+
 
 
 ### 程序员杂谈
@@ -196,6 +225,7 @@
 ### 计算机图形学
 
 * [LearnOpenGL CN](https://learnopengl-cn.github.io)
+* [《Real-Time Rendering 3rd》提炼总结](https://github.com/QianMo/Real-Time-Rendering-3rd-Summary-Ebook)
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 
 
@@ -302,6 +332,8 @@
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/) - 运维生存时间 (PDF)
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) - 淘宝团队
+
+
 
 
 ## 语言相关
@@ -451,7 +483,6 @@
 ### Java
 
 - [Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
-- 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 - [Effective Java（第3版）各章节的中英文学习参考](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 
 * [阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf) (PDF)
@@ -474,6 +505,44 @@
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
+
+
+
+**🔐 更多**
+
+百度网盘链接：https://pan.baidu.com/s/17nuY_U0PUd5Qeo32m-JTqQ
+
+提取码：dce5
+
+- 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+- Camel in Action
+- Effective Java 2nd Edition 英文版
+- Effective Java 中文第二版
+- Head First Java 第二版 
+- Head First Java 中文高清版 
+- Java 8实战
+- Java编辑思想（第四版）
+- Java并发编程的艺术
+- JAVA并发编程实践
+- Java并发编程图册
+- Java从小白到大牛精简版
+- Java核心技术（卷1）第8版
+- Java核心技术（卷2）第8版
+- Java核心技术卷1基础知识原书第10版
+- Java核心技术卷2高级特性原书第10版
+- Java性能优化权威指南
+- Maven实战（高清完整带书签）
+- Spring 5 Recipes, 4th Edition
+- Spring in action 中文版（第4版）
+- 阿里巴巴Java开发手册--华山版
+- 阿里巴巴Java开发手册-嵩山版
+- 阿里巴巴Java开发手册--泰山版
+- 码出高效-阿里巴巴Java开发手册
+- 轻量级JavaEE企业应用实战（第四版）
+- 深入分析JavaWeb技术内幕
+- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）
+- 深入剖析Tomcat
+
 
 
 ### JavaScript
