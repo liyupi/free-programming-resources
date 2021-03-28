@@ -10,16 +10,13 @@
 ![](https://img.shields.io/badge/面试合集-1000+-orange.svg)
 ![](https://img.shields.io/badge/实用资源-1000+-blue.svg)
 
-
-
 [直接在线阅读，喂饱收藏夹！](https://free.code-nav.cn) ✨ [备用地址](https://liyupi.gitee.io/free-programming-resources/)
 
-搜资源：[编程导航](https://www.code-nav.cn)
+搜资源：[编程导航网](https://www.code-nav.cn)
 
-领资源：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+私密资源：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
 技术干货：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
-
 
 
 <br/>
