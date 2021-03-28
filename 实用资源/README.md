@@ -7,6 +7,7 @@
 ## 目录
 
 - [找开源项目](#找开源项目)
+- [自我修养](#自我修养)
 - [持续更新](#持续更新)
 
 
@@ -44,6 +45,16 @@
 [GitHub 加速下载](https://www.code-nav.cn/rd/?rid=b00064a760322e940642dfab7765f4ee)
 
 [GitHub 文件加速](https://www.code-nav.cn/rd/?rid=28ee4e3e60322efc06a52b49518dcd9a)
+
+
+
+## 自我修养
+
+[996.ICU](https://github.com/996icu/996.ICU/blob/master/blacklist/README.md)：996 工作制公司名单
+
+[955.WLB](https://github.com/formulahendry/955.WLB)：995 工作制公司名单
+
+[996.Leave](https://github.com/623637646/996.Leave)：逃离 996，养老国外公司
 
 
 

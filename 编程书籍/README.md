@@ -482,6 +482,9 @@
 
 ### Java
 
+
+- 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+- 🔐 [Java并发编程图册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 - [Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
 - [Effective Java（第3版）各章节的中英文学习参考](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 
@@ -853,3 +856,8 @@
 
 * [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book)
 
+
+
+## 免责声明
+
+书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，非常非常抱歉，请马上联系我，我立刻删除对应链接。我的微信：liyupi66

@@ -10,6 +10,8 @@
 
 - [前端](#前端)
 - [Java](#Java)
+  - [Java源码教程](#Java源码教程)
+  - [Java文档教程](#Java文档教程)
 - [Python](#Python)
 - [Go](#Go)
 - [PHP](#PHP)
@@ -50,29 +52,85 @@
 
 ## Java
 
+### Java源码教程
+
+[tutorials](https://github.com/eugenp/tutorials)：一系列小而专注的教程集合
+
+[SpringAll](https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程
+
+[Spring Boot Demo](https://github.com/xkcoding/spring-boot-demo)：通过 Demo 深度学习并实战 SpringBoot
+
+[spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)：Spring Boot 使用的各种示例，以最简单、最实用为标准，帮助初学者快速掌握 Spring Boot 各组件的使用。
+
+[spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)：Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程。
+
+[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)：所有算法的 Java 实现
+
+[java-design-patterns](https://github.com/iluwatar/java-design-patterns)：Java 实现的设计模式
+
+
+
+### Java文档教程
+
+#### 基础
+
+[On Java 8](https://www.code-nav.cn/rd/?rid=ce805e785ff309020339542e024a33ff)：Java8 在线学习手册
+
+[JavaGuide - Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
+
+[LearningNotes](https://github.com/francistao/LearningNotes)：一位 Java 学习者的笔记
+
+[java-learning](https://github.com/brianway/java-learning)：旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
+
+
+
+#### 类库框架
+
+[SpringBoot Guide](https://github.com/Snailclimb/springboot-guide)
+
+[springcloud-learning](https://github.com/macrozheng/springcloud-learning)：一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring  Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。    
+
+[spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide)
+
+[guava-study](https://github.com/tiantiangao/guava-study)：Java 知名类库 guava 学习
+
+[RxJavaLearningMaterial](https://github.com/Carson-Ho/RxJavaLearningMaterial)：这是一份详细的RxJava学习攻略 & 指南
+
+
+
+#### 系统设计
+
+[mall-learning](https://github.com/macrozheng/mall-learning)：mall学习教程，架构、业务、技术要点全方位解析。
+
+[miaosha](https://github.com/qiurunze123/miaosha)：秒杀系统设计与实现
+
+
+
+#### 源码
+
+[JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning)：Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码    
+
+[LearningJDK](https://github.com/kangjianwei/LearningJDK)：JDK源码阅读笔记
+
+
+
+### 其他
+
 [2020 黑马程序员Java语言入门到精通](https://www.bilibili.com/video/BV1Qy4y1k7kL)
 
 🔐 [全套保姆级  Java 教程 + 课件 + 笔记 +实战](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
 [How2J](https://www.code-nav.cn/rd/?rid=21ded5cb5ff2e50903acc7d93758fb15)： Java 全栈开发教程网站
 
+[Learn Java](https://www.learnjavaonline.org/)：国外 Java 学习网站
+
 [蚂蚁课堂免费课程](https://www.code-nav.cn/rd/?rid=023ce9555ffabe7d03fdd8004879672c)
-
-[On Java 8](https://www.code-nav.cn/rd/?rid=ce805e785ff309020339542e024a33ff)：Java8 在线学习手册
-
-[SpringBoot Guide](https://github.com/Snailclimb/springboot-guide)
-
-[从零入门 ！Spring Security With JWT](https://github.com/Snailclimb/spring-security-jwt-guide)
-
-[SpringAll](https://github.com/wuyouzhuguli/SpringAll)：Spring 系列源码教程
-
-[Spring Boot Demo](https://github.com/xkcoding)：通过 Demo 深度学习并实战 SpringBoot
-
-[springcloud-learning](https://github.com/macrozheng/springcloud-learning)：一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring  Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。    
 
 🔐 [码出高效 - 阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
-[guava-study](https://github.com/tiantiangao/guava-study)：Java 知名类库 guava 学习
+🔐 [Java并发编程图册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+
+
 
 
 
@@ -157,6 +215,8 @@
 [Learning Git Branching](https://www.code-nav.cn/rd/?rid=023ce9555ff567a5038cd13851a41fc6)：通过一系列刺激的关卡挑战，逐步深入的学习 Git
 
 [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
+
+[first-contributions](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)：教你第一次为 GitHub 仓库贡献
 
 
 
