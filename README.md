@@ -10,6 +10,8 @@
 
 搜资源：[编程导航网](https://www.code-nav.cn)
 
+私密资源：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
+
 技术干货：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
 
