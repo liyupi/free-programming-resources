@@ -1,8 +1,8 @@
 # 编程书籍
 
-> 已收录近千本编程电子书和文档，大部分源于开源项目 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 和 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)，并在此基础上补充了更多的好书！
+> 已收录近千本编程电子书和文档，支持在线阅读和 PDF 下载！
 >
-> 推荐在 [编程导航](https://www.code-nav.cn) 直接搜索书籍！
+> 🔍 支持在 [编程导航](https://www.code-nav.cn) 直接搜索书籍！
 
 
 
@@ -480,12 +480,63 @@
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
+
+
 ### Java
 
+#### 🔍 PDF 下载
 
-- 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
-- 🔐 [Java并发编程图册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
-- [Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
+> 直接在 [编程导航](https://www.code-nav.cn) 搜索下列书名即可
+
+- 码出高效-阿里巴巴 Java 开发手册
+- Camel in Action
+- Effective Java 2nd Edition 英文版
+- Head First Java 第二版 
+- Head First Java 中文高清版 
+- Java 8实战
+- Java编辑思想（第四版）
+- Java并发编程的艺术
+- JAVA并发编程实践
+- Java并发编程图册
+- Java从小白到大牛精简版
+- Java核心技术卷1基础知识原书第10版
+- Java核心技术卷2高级特性原书第10版
+- Java性能优化权威指南
+- Maven实战（高清完整带书签）
+- Spring 5 Recipes, 4th Edition
+- Spring in action 中文版（第4版）
+- 阿里巴巴Java开发手册--华山版
+- 阿里巴巴Java开发手册-嵩山版
+- 阿里巴巴Java开发手册--泰山版
+- 码出高效-阿里巴巴Java开发手册
+- 轻量级JavaEE企业应用实战（第四版）
+- 深入分析JavaWeb技术内幕
+- 深入剖析Tomcat
+- 《Effective Java中文版（第3版）》
+- 《深入理解Java虚拟机（第3版）》
+- 《Java解惑》
+- 《自己动手写Java虚拟机》
+- 《实战Java高并发程序设计》
+- 《编写高质量代码》
+- 《大型网站系统与Java中间件开发实践》
+- 《Java性能权威指南》
+- 《Java多线程编程核心技术》
+- 《Offer来了：Java面试核心知识点精讲（原理篇）》
+- 《Java技术手册（第6版）》
+- 《Java从小白到大牛》
+- 《Java从入门到精通(第4版）》
+- 《Java并发编程实战》
+- 《Java测试驱动开发》
+- 《21天学通Java》
+- 《JavaEE开发的颠覆者》
+- 《Java 8函数式编程》
+- 《Java编程的逻辑》
+
+
+
+#### 💻 在线阅读
+
+
 - [Effective Java（第3版）各章节的中英文学习参考](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 
 * [阿里巴巴 Java 开发手册](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf) (PDF)
@@ -508,43 +559,6 @@
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
-
-
-
-**🔐 更多**
-
-百度网盘链接：https://pan.baidu.com/s/17nuY_U0PUd5Qeo32m-JTqQ
-
-提取码：dce5
-
-- 🔐 [码出高效-阿里巴巴 Java 开发手册](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
-- Camel in Action
-- Effective Java 2nd Edition 英文版
-- Effective Java 中文第二版
-- Head First Java 第二版 
-- Head First Java 中文高清版 
-- Java 8实战
-- Java编辑思想（第四版）
-- Java并发编程的艺术
-- JAVA并发编程实践
-- Java并发编程图册
-- Java从小白到大牛精简版
-- Java核心技术（卷1）第8版
-- Java核心技术（卷2）第8版
-- Java核心技术卷1基础知识原书第10版
-- Java核心技术卷2高级特性原书第10版
-- Java性能优化权威指南
-- Maven实战（高清完整带书签）
-- Spring 5 Recipes, 4th Edition
-- Spring in action 中文版（第4版）
-- 阿里巴巴Java开发手册--华山版
-- 阿里巴巴Java开发手册-嵩山版
-- 阿里巴巴Java开发手册--泰山版
-- 码出高效-阿里巴巴Java开发手册
-- 轻量级JavaEE企业应用实战（第四版）
-- 深入分析JavaWeb技术内幕
-- 深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）
-- 深入剖析Tomcat
 
 
 
