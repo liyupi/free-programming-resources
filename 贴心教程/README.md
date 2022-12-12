@@ -82,6 +82,7 @@
 
 [java-learning](https://github.com/brianway/java-learning)：旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
 
+[Learn Java Programming](https://www.scaler.com/topics/java/): Java 编程教程
 
 
 #### 类库框架
