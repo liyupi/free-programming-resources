@@ -770,6 +770,7 @@
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](http://funhacks.net/explore-python) - Ethan
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) - (网络上其他的都是较旧版本的，Online)
+* [Python编程教程](https://www.scaler.com/topics/python/) - (Online)
 
 
 #### Django
