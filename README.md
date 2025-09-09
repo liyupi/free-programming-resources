@@ -18,6 +18,7 @@
 
 技术干货：[程序员鱼皮](https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png)
 
+![](https://pic.yupi.icu/1/0b38ea17-74a4-433e-a803-8c9d17f75ef4.jpeg)
 
 <br/>
 
