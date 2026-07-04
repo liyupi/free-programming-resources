@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/面试合集-1000+-orange.svg)
 ![](https://img.shields.io/badge/实用资源-1000+-blue.svg)
 ![GitHub stars](https://img.shields.io/github/stars/liyupi/free-programming-resources?style=social)
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 ![GitHub forks](https://img.shields.io/github/forks/liyupi/free-programming-resources?style=social)
 
 > 本仓库内的文档资源已不再维护，所有资源均已迁移到线上平台，内容更丰富、更新更及时！请访问以下平台获取最新资源：
